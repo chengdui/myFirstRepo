@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("aaaaa");
 		System.out.println("2222");
 		System.out.println("xuxuxuuxu");
+		System.out.println("新的");
 	}
 }
