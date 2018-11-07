@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("2222");
 		System.out.println("xuxuxuuxu");
 		System.out.println("新的");
+		System.out.println("66654");
 	}
 }
